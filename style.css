@@ -103,3 +103,10 @@ p.thirteen {
   background-color: rgb(0,149,226);}
 p.fourteen {
   background-color: rgb(0,136,221);}
+#mainFooter {
+  background: rgb(43, 43, 43);
+  color: white;
+  text-align: right;
+  padding: 20px;
+  margin-top: 50px;
+}
