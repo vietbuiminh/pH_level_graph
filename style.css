@@ -34,11 +34,20 @@ body {
 }
 #mainNav li {
   display: inline;
-  padding: 5px;
+  padding: 10px;
+  background: rgb(109, 108, 108);
 }
 #mainNav a {
   color: rgb(170, 170, 170);
   text-decoration: none;
+}
+#mainNav li:hover {
+  background: rgb(85, 175, 211);
+  /* text-color: black; */
+}
+#mainNav a:hover {
+  color: black;
+  text-transform: uppercase;
 }
 p {
   padding: 5px;
