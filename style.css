@@ -34,27 +34,31 @@ body {
 }
 #mainNav li {
   display: inline;
-  padding: 0;
+  padding: 5px;
+}
+#mainNav a {
+  color: rgb(170, 170, 170);
+  text-decoration: none;
 }
 p {
   padding: 5px;
   margin: 0px;}
 p.zero {
-  background-color: rgb(238,62,128);}
+  background-color: rgb(238, 62, 62);}
 p.one {
-  background-color: rgb(244,90,139);}
+  background-color: rgb(236, 78, 78);}
 p.two {
-  background-color: rgb(243,106,152);}
+  background-color: rgb(238, 104, 104);}
 p.three {
-  background-color: rgb(244,123,166);}
+  background-color: rgb(235, 129, 129);}
 p.four {
-  background-color: rgb(245,140,178);}
+  background-color: rgb(240, 158, 158);}
 p.five {
-  background-color: rgb(246,159,192);}
+  background-color: rgb(233, 173, 173);}
 p.six {
-  background-color: rgb(245,176,204);}
+  background-color: rgb(238, 201, 201);}
 p.seven {
-  background-color: rgb(35, 180, 142);}
+  background-color: rgb(255, 255, 255);}
 p.eight {
   background-color: rgb(140,202,242);}
 p.nine {
