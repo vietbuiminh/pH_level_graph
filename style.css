@@ -49,6 +49,10 @@ body {
   color: black;
   text-transform: uppercase;
 }
+#jumbo {
+  background-image: url(../pH_level/image/13_zing_1.jpg);  
+  background-position: 35% 20%;
+}
 p {
   padding: 5px;
   margin: 0px;}
