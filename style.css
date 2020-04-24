@@ -74,8 +74,7 @@ p {
   padding: 5px;
   margin: 0px;}
 p.zero {
-  background-color: rgb(238, 62, 62);
-  text-decoration: blink;}
+  background-color: rgb(238, 62, 62);}
 p.one {
   background-color: rgb(236, 78, 78);}
 p.two {
@@ -110,4 +109,7 @@ p.fourteen {
   text-align: right;
   padding: 20px;
   margin-top: 50px;
+}
+#contact {
+  text-decoration: blink;
 }
