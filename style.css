@@ -45,6 +45,9 @@ body {
   background: rgb(85, 175, 211);
   /* text-color: black; */
 }
+#mainNav li:active {
+  background: rgb(192, 176, 27);
+}
 #mainNav a:hover {
   color: black;
   text-transform: uppercase;
@@ -54,6 +57,8 @@ body {
   background-position: 35% 20%;
   min-height: 200px;
   text-align: left;
+  text-shadow: 2px 2px 7px #111111;
+  border: 1px;
 }
 #jumbo1 {
   background-image: url('../image/Indicator-paper-liquid-pH-solution.jpg'); 
@@ -111,6 +116,9 @@ p.thirteen {
   background-color: rgb(0,149,226);}
 p.fourteen {
   background-color: rgb(0,136,221);}
+.container p:hover {
+  background-color: rgba(255, 255, 255, 0.582);
+}
 #mainFooter {
   background: rgb(43, 43, 43);
   color: white;
