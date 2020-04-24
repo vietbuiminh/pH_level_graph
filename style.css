@@ -50,7 +50,14 @@ body {
   text-transform: uppercase;
 }
 #jumbo {
-  background-image: url('../image/Indicator-paper-liquid-pH-solution.jpg');  
+  background-image: url('../image/Indicator-paper-liquid-pH-solution.jpg'); 
+  background-position: 35% 20%;
+  min-height: 200px;
+  text-align: left;
+}
+#jumbo1 {
+  background-image: url('../image/Indicator-paper-liquid-pH-solution.jpg'); 
+  filter: blur(8px);
   background-position: 35% 20%;
   min-height: 200px;
   text-align: left;
@@ -61,6 +68,7 @@ body {
   padding: 1px 10px;
   line-height: 1.6em;
   background-color: rgba(255, 255, 255, 0.582);
+  text-align: center;
 }
 #jumbo p {
   color: white;
